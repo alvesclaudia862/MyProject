@@ -1,0 +1,25 @@
+#Cadastro das informações...
+print("Digite o nome da empresa")
+MyCompany=input()
+print("Digite o nome do gestor")
+MyManager=input()
+print("Digite seu cargo")
+MyJob=input()
+print("Digite a data do início do aviso prévio")
+MyStarNotice=input()
+print("Digite a data final do aviso prévio")
+MyTerminationnotice=input()
+print("Local e data")
+MyPlace=input()
+print("Nome Completo")
+MyNameComplete=input()
+
+
+#Impressão da carta de demissão
+print(f"À {MyCompany}")
+print(f"Prezado(a) {MyManager}")
+print(f"Venho por meio desta carta comunicar formalmente o meu pedido de demissão do cargo de {MyJob}")
+print(f"data de início do aviso prévio{MyStarNotice}")
+print(f"data fianl do aviso prévio{MyTerminationnotice}")
+print(f"Local e data {MyPlace}")
+print(f"nome completo {MyNameComplete}")

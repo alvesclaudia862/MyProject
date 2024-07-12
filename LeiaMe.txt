@@ -1,0 +1,13 @@
+O Github é uma espécie de rede social para programadores, o site tem uma fama especial nesse nicho.
+
+Sendo também um serviço de publicação e compartilhamento de códigos de programação.
+
+Lançada em 2008, a plataforma é usada mundialmente, sendo de propriedade da Microsoft. 
+ 
+O GitHub também pode funcionar como um serviço de colaboração de projetos pessoais e até comerciais.
+
+Grandes empresas como Google e WordPress também usufruem do site no que diz respeito às possibilidades de suporte a problemas e até novos desenvolvimentos para suas plataformas.
+
+Os usuários podem criar projetos com base em outros já existentes e editá-los à sua maneira.
+
+Sendo assim múltiplos desenvolvedores trabalham em um mesmo projeto.

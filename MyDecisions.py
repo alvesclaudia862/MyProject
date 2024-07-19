@@ -1,6 +1,6 @@
 #Demostração de operadores lógicos em condicionais....
 print("O que você vai fazer amanhã de manhã?")
-print("dornir / estudar / planejar")
+print("dormir / estudar / planejar")
 manha = input()
 print("O que você vai fazer amanhã de tarde?")
 print("jogar / treinar / trabalhar")

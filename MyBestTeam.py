@@ -1,13 +1,11 @@
-#Demonstração do melhor time de futebol
-melhortime = int(input("Escolha o melhor time do Brasil. "))
-melhortime = melhortime 
-print (f"Você sabe torcer!")
+times_validos = ["flamengo", "fluminense", "vasco"]
 
-time = (input("Qual é o melhor time do Brasil? "))
-if time == "Flamengo!":
-    print ("Time certo!!! ")
-elif time == "Vasco":
-    print("Time errado")    
-
+while True:
+    escolha = input("Digite o melhor time (flamengo, fluminense, vasco): ")
+    if escolha == times_validos:
+    if escolha in times_validos:
+    print(f"Você escolheu o {escolha.capitalize()} como o melhor time!")
+    print(f"Você escolheu o {escolha} como o melhor time!")
+    break
 else:
-   print ("Time errado")
+print("Opção inválida. Tente novamente.")
